@@ -137,6 +137,9 @@ module mux4_to_1_behavioral (
     end
 endmodule
 
+![Screenshot 2024-09-19 141755](https://github.com/user-attachments/assets/c98bd23a-693c-4cfd-9d34-cb742f79bed0)
+
+
 4:1 MUX Structural Implementation
 
 // mux2_to_1.v
