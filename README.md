@@ -90,6 +90,9 @@ module mux4_to_1_gate (
     or (Y, A_and, B_and, C_and, D_and);
 endmodule
 
+![Screenshot 2024-09-19 133717](https://github.com/user-attachments/assets/51f95333-7541-46ab-a62f-3b1c4fe45a50)
+
+
 4:1 MUX Data Flow Implementation
 
 // mux4_to_1_dataflow.v
