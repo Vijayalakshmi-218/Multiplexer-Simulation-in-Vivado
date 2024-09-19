@@ -111,6 +111,9 @@ module mux4_to_1_dataflow (
                (S1 & S0 & D);
 endmodule
 
+![Screenshot 2024-09-19 140303](https://github.com/user-attachments/assets/8d3b1a6c-16ac-467e-902c-8cad4f0c7051)
+
+
 4:1 MUX Behavioral Implementation
 
 // mux4_to_1_behavioral.v
