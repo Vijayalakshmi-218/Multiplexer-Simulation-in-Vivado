@@ -173,6 +173,8 @@ module mux4_to_1_structural (
     mux2_to_1 mux_final (.A(mux_low), .B(mux_high), .S(S1), .Y(Y));
 endmodule
 
+![image](https://github.com/user-attachments/assets/906977db-9e67-4947-bbf2-9ac88e6471ba)
+
 Testbench Implementation
 
 // mux4_to_1_tb.v
